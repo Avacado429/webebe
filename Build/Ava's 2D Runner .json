@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AvA TAkakaHAMa",
+"productVersion": "0.1",
+"dataUrl": "Ava's 2D Runner .data.unityweb",
+"wasmCodeUrl": "Ava's 2D Runner .wasm.code.unityweb",
+"wasmFrameworkUrl": "Ava's 2D Runner .wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
